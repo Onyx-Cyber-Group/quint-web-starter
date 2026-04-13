@@ -73,6 +73,10 @@ Output is in `dist/`. Configure your host so `/api` and `/_matrix` route to the 
 - **iOS client:** `QUINT001` (`APIConfiguration.swift` for base URLs).
 - **OpenAPI:** when enabled on the server, `https://100.25.66.46/api/docs/` (see `api/app.py`).
 
+## Team
+
+- **Web / front-end:** [@rcordon](https://github.com/rcordon) — collaborator on this repo (legacy starter; prefer [quint-web-client](https://github.com/Onyx-Cyber-Group/quint-web-client) for new work).
+
 ## License
 
 Internal ONYX / Onyx Cyber use unless otherwise agreed.
