@@ -4,6 +4,10 @@ Minimal **Vite + vanilla JS** starter for building a **web front end** against t
 
 Handed off for **Ryan Condron** and other external frontend developers.
 
+## Do developers need to be logged into AWS?
+
+**No.** This app never calls the AWS API. It only speaks **HTTPS** to the Quint homeserver (`100.25.66.46`). That server already runs on EC2; it does not care whether anyone has the **AWS Console** or **AWS CLI** open. You only need **network reachability** to that host (and, for some networks, VPN or firewall rules your org allows). Operations still use AWS for **hosting** the box—that is separate from day-to-day frontend work.
+
 ## What credentials do you need?
 
 | Credential | When you need it | How to get it |
