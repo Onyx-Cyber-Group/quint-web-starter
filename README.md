@@ -2,7 +2,7 @@
 
 Minimal **Vite + vanilla JS** starter for building a **web front end** against the ONYX **Quint Splash API** and **Synapse** homeserver (`https://100.25.66.46`).
 
-Handed off for **Ryan Condron** and other external frontend developers.
+**Note:** For new work, prefer **[quint-web-client](https://github.com/Onyx-Cyber-Group/quint-web-client)** (canonical name). This repo may be archived later.
 
 ## Do developers need to be logged into AWS?
 
